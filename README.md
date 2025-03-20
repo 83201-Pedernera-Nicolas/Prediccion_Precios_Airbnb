@@ -6,3 +6,5 @@ Este proyecto aplica técnicas de Ciencia de Datos para analizar un dataset de A
 🔹 Fase 3 - Modelado Predictivo: Implementación de modelos como Random Forest y XGBoost para predecir precios de alquiler.
 
 📌 Tecnologías: Python, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost.
+
+Para mayor informacion leer el archivo Grupo10-InformeFinal.pdf
