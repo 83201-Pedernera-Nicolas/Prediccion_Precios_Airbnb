@@ -1,4 +1,8 @@
-En este trabajo práctico integral, se analizará a fondo un dataset
-de Airbnb en Nueva York, extraido de la plataforma Kaggle. 
-A este se le realizara un proceso de Análisis, extraccion y preparacion de los datos presentes en el dataset. 
-Por último, se experimentará con varios modelos de prediccion para obtener, de manera aproximada,los valores de precio de cada alquiler/publicación de la plataforma.
+Análisis de Datos de Airbnb en Nueva York
+Este proyecto aplica técnicas de Ciencia de Datos para analizar un dataset de Airbnb en Nueva York, obteniendo insights clave sobre los alquileres y prediciendo precios de propiedades.
+
+🔹 Fase 1 - Adquisición de Datos: Obtención y selección del dataset con información sobre propiedades, precios y reseñas.
+🔹 Fase 2 - Análisis y Exploración: Limpieza de datos, manejo de valores nulos, visualización de patrones y correlaciones.
+🔹 Fase 3 - Modelado Predictivo: Implementación de modelos como Random Forest y XGBoost para predecir precios de alquiler.
+
+📌 Tecnologías: Python, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost.
