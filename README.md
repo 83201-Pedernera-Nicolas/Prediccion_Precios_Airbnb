@@ -7,4 +7,6 @@ Este proyecto aplica técnicas de Ciencia de Datos para analizar un dataset de A
 
 ## 📌 Tecnologías: Python, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost.  
 
-Para mayor informacion leer el archivo Grupo10-InformeFinal.pdf  
+El modelo final tiene un nivel de certeza de 72%
+
+Para mayor informacion sobre el proyecto, leer el archivo Grupo10-InformeFinal.pdf  
